@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/520FrontGH/static/js/main.baca5836.chunk.js",
-    "main.js.map": "/520FrontGH/static/js/main.baca5836.chunk.js.map",
+    "main.css": "/520FrontGH/static/css/main.e3884b49.chunk.css",
+    "main.js": "/520FrontGH/static/js/main.f5a70110.chunk.js",
+    "main.js.map": "/520FrontGH/static/js/main.f5a70110.chunk.js.map",
     "runtime~main.js": "/520FrontGH/static/js/runtime~main.779a4fdd.js",
     "runtime~main.js.map": "/520FrontGH/static/js/runtime~main.779a4fdd.js.map",
     "static/js/2.9726e1c3.chunk.js": "/520FrontGH/static/js/2.9726e1c3.chunk.js",
     "static/js/2.9726e1c3.chunk.js.map": "/520FrontGH/static/js/2.9726e1c3.chunk.js.map",
     "index.html": "/520FrontGH/index.html",
-    "precache-manifest.55ac500fd0bc9de600dc2cf53455effc.js": "/520FrontGH/precache-manifest.55ac500fd0bc9de600dc2cf53455effc.js",
-    "service-worker.js": "/520FrontGH/service-worker.js"
+    "precache-manifest.6d5931af0b638cbdd122d232a5ea3fa5.js": "/520FrontGH/precache-manifest.6d5931af0b638cbdd122d232a5ea3fa5.js",
+    "service-worker.js": "/520FrontGH/service-worker.js",
+    "static/css/main.e3884b49.chunk.css.map": "/520FrontGH/static/css/main.e3884b49.chunk.css.map"
   }
 }
